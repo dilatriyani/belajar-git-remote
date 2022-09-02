@@ -1,2 +1,4 @@
 hello
 fitur1
+fitur 1
+fitur2
